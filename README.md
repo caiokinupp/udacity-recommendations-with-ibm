@@ -19,11 +19,11 @@
 ### Project Content
 The project is organized along the following steps:
 
-- I. Exploratory Data Analysis
-- II. Rank Based Recommendations
-	III. User-User Based Collaborative Filtering
-	IV. Content Based Recommendations
-	V. Matrix Factorization
+1. Exploratory Data Analysis
+2. Rank Based Recommendations
+3. User-User Based Collaborative Filtering
+4. Content Based Recommendations
+5. Matrix Factorization
 
 <a name="file-description"></a>
 ### Files Description:
