@@ -2,18 +2,15 @@
 
 ## Table of Contents
 1. [Overview](#overview)
-	1. [Background Information](#bg-info)
-	2. [Project Content](#project-content)
-	3. [Files Description](#file-description)
+	1. [Project Content](#project-content)
+	2. [Files Description](#file-description)
 
 2. [Authors](#authors)
 3. [License](#license)
 
 <a name="overview"></a>
 ## Overview
-
-<a name="bg-info"></a>
-### Background Information
+For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles that I think they will like.
 
 <a name="project-content"></a>
 ### Project Content
