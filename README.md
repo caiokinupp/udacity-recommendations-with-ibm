@@ -10,7 +10,7 @@
 
 <a name="overview"></a>
 ## Overview
-For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles that I think they will like.
+For this project I will analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles that I think they will like. This Project is part of Data Science Nanodegree Program by Udacity.
 
 <a name="project-content"></a>
 ### Project Content
